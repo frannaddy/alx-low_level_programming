@@ -1,6 +1,7 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - program prints out all single numbers of base
+ * then a new line
  * Return: Always 0 (success)
  */
 int mai(void)
