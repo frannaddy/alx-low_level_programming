@@ -4,7 +4,7 @@
  * then a new line
  * Return: Always 0 (success)
  */
-int mai(void)
+int main(void)
 {
 	int n;
 
