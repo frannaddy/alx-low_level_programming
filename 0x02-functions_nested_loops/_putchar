@@ -1,0 +1,13 @@
+#include "main.h"
+#include <unistd.h>
+/*
+ *_putchar - writes the character 'c' to stdo
+ *@c : Character to print
+ *
+ *Return: Always 1 (success)
+ *Error: -1 error
+ */
+int_putchar(char c)
+{
+	return(write(1, &c, 1));
+}
