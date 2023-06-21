@@ -1,4 +1,4 @@
-#include
+#include "main.h"
 /**
  * Prints times table of the input
  * starts with 0
